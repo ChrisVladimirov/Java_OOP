@@ -4,9 +4,13 @@ The current repository defines the exercises within the Java OOP_June 2021 cours
 
 **Topics covered within the course**:
 
-- Working with Abstraction          - Polymorphism
-- Encapsulation                     - SOLID principles
-- Inheritance                       - Reflection & Annotations
-- Interfaces and Abstraction        - Exception handling
-- Unit Testing & TDT                - Design patterns
-
+- Working with Abstraction          
+- Encapsulation                     
+- Inheritance                       
+- Interfaces and Abstraction                       
+- Polymorphism
+- SOLID principles
+- Reflection & Annotations
+- Unit Testing & TDT 
+- Exception handling
+- Design patterns
